@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(255, 227, 236);
+}
+
+.container-fluid {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    min-width: 90%;
+    height: 500px;
+    margin-top: 40px;
+    background-color: #ffff;
+}
+
+.style-bar {
+    font-size: 20px;
+    padding: 20px;
+    background-color: blueviolet;
+    color: #ffff;
+}
+
+.set-img {
+    margin-top: -18px;
+    width: 110%;
+    box-shadow: 3px 14px 24px 22px rgba(0, 0, 0, 0.43);
+    -webkit-box-shadow: 3px 14px 24px 22px rgba(0, 0, 0, 0.43);
+    -moz-box-shadow: 3px 14px 24px 22px rgba(0, 0, 0, 0.43);
+}
+
+.para p {
+    margin-top: 9px;
+    margin-left: 33px;
+    margin-right: 28px;
+    padding-left: 20px;
+}
+
+.service {
+    margin-left: 20px;
+    margin-right: 28px;
+    padding-left: 10px;
+}
+
+.first-service {
+    margin-top: 10px;
+}
+
+.icon-style {
+    color: blueviolet;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+.first-service p {
+    margin-left: 33px;
+}
+
+.dev {
+    margin-left: 30px;
+}
+
+.end {
+    position: absolute;
+    bottom: 25px;
+    font-size: 30px;
+    left: 15px;
+    color: blueviolet;
+}
+
+.middle {
+    margin-top: 95px;
+}
+
+.middle i {
+    display: block;
+    margin-top: 17px;
+    line-height: 1.5;
+    padding-left: 20px;
+    color: #757575;
+    font-size: 20px;
+}
